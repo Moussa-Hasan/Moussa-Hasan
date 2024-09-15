@@ -1,5 +1,7 @@
+👋 Hi, I'm Moussa!
+
 # 💫 About Me:
-👋 Hi, I'm Moussa!<br><br>Computer Science graduate skilled in various technologies covering frontend, backend, and API development.<br>Experienced in web development and database management through various projects.<br>Always seeking opportunities to grow in the tech field.
+<br><br>Computer Science graduate skilled in various technologies covering frontend, backend, and API development.<br>Experienced in web development and database management through various projects.<br>Always seeking opportunities to grow in the tech field.
 
 
 ## 🌐 Socials:
