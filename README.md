@@ -1,4 +1,4 @@
-# Hello, I'm Moussa!
+# 👋🏼 Hello, I'm Moussa!
 
 # 💫 About Me:
 I'm a Computer Science graduate with experience in tech. I'm a quick learner, a good communicator, 
