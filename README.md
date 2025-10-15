@@ -1,14 +1,14 @@
-# 👋🏼 Hello, I'm Moussa!
+# Hello, I'm Moussa!
 
-## 💡 About Me
+## About Me
 I'm a Computer Science graduate passionate about building efficient, scalable, and user-friendly web applications.  
 I enjoy learning new technologies, tackling real-world problems, and collaborating with others to bring ideas to life.  
 I'm always open to exploring new tools, improving my skills, and taking on new challenges.
 
-## 🔗 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moussa-hasan)
 
-## 💻 Tech Stack
+## Tech Stack
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,5 +21,5 @@ I'm always open to exploring new tools, improving my skills, and taking on new c
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 💬 Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
