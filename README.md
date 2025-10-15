@@ -1,7 +1,8 @@
 # Hello, I'm Moussa!
 
 # 💫 About Me:
-Computer Science graduate skilled in various technologies covering frontend, backend, and API development.<br>Experienced in web development and database management through various projects
+I'm a Computer Science graduate with experience in tech. I'm a quick learner, a good communicator, 
+and open to learning new skills and adapting to different roles. 
 
 
 ## 🌐 Socials:
