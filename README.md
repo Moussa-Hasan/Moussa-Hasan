@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Moussa!
+# Hello, I'm Moussa!
 
 # 💫 About Me:
 Computer Science graduate skilled in various technologies covering frontend, backend, and API development.<br>Experienced in web development and database management through various projects
