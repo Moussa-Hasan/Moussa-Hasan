@@ -1,1 +1,3 @@
-As the Founder of Gymlb, a SaaS platform for managing trainee and club activities, I lead the technical development and infrastructure of the system. I work with technologies like Next.js, TypeScript, PostgreSQL, Prisma, and Docker to build scalable, user-friendly web applications while ensuring best practices for performance and maintainability.
+Founder of Gymlb, a SaaS platform for managing gym and fitness club operations. I handle the full technical stack - building with Next.js, TypeScript, PostgreSQL, and Prisma on the backend.
+I focus on creating scalable infrastructure that actually works under real load, using load balancers and auto-scaling to handle traffic spikes. The deployment pipeline runs through automated CI/CD, so we can ship features quickly without breaking things.
+My goal is to build software that's fast, reliable, and doesn't make users (or myself) want to flip a table.
