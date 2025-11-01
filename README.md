@@ -1,3 +1,3 @@
-Founder of Gymlb, a SaaS platform for managing gym and fitness club operations. I handle the full technical stack, focusing on scalable infrastructure using containerization, load balancers, auto-scaling, backup strategies, and CI/CD pipelines.
+I work on scalable infrastructure using containerization, load balancers, auto-scaling, backup strategies, and CI/CD pipelines.
 
 **My goal:** build software that's fast, reliable, and doesn't make anyone want to flip a table.
